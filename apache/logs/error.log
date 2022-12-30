@@ -1,0 +1,220 @@
+[Tue Sep 18 13:55:51.682893 2018] [ssl:warn] [pid 4708:tid 128] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 13:55:51.871388 2018] [ssl:warn] [pid 4708:tid 128] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_bz2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_fileinfo.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_gettext.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_mbstring.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_mysqli.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_pdo_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_pdo_sqlite.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  Cannot open '\\xampp\\php\\extras\\browscap.ini' for reading in Unknown on line 0
+[Tue Sep 18 13:55:51.887339 2018] [mpm_winnt:notice] [pid 4708:tid 128] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 13:55:51.887339 2018] [mpm_winnt:notice] [pid 4708:tid 128] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 13:55:51.887339 2018] [core:notice] [pid 4708:tid 128] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 13:55:51.892325 2018] [mpm_winnt:notice] [pid 4708:tid 128] AH00418: Parent: Created child process 10588
+[Tue Sep 18 13:55:52.860946 2018] [ssl:warn] [pid 10588:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 13:55:53.039468 2018] [ssl:warn] [pid 10588:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_bz2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_fileinfo.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_gd2.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_gettext.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_mbstring.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_mysqli.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_pdo_mysql.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_pdo_sqlite.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\xampp\\php\\ext\\php_openssl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  Cannot open '\\xampp\\php\\extras\\browscap.ini' for reading in Unknown on line 0
+[Tue Sep 18 13:55:53.058418 2018] [mpm_winnt:notice] [pid 10588:tid 572] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 18 13:58:38.097365 2018] [ssl:warn] [pid 5964:tid 516] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 13:58:38.158200 2018] [core:warn] [pid 5964:tid 516] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 13:58:38.272894 2018] [ssl:warn] [pid 5964:tid 516] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 13:58:38.371855 2018] [mpm_winnt:notice] [pid 5964:tid 516] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 13:58:38.371855 2018] [mpm_winnt:notice] [pid 5964:tid 516] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 13:58:38.371855 2018] [core:notice] [pid 5964:tid 516] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 13:58:38.377839 2018] [mpm_winnt:notice] [pid 5964:tid 516] AH00418: Parent: Created child process 4992
+[Tue Sep 18 13:58:39.345534 2018] [ssl:warn] [pid 4992:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 13:58:39.514985 2018] [ssl:warn] [pid 4992:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 13:58:39.556874 2018] [mpm_winnt:notice] [pid 4992:tid 572] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 18 13:59:33.600832 2018] [ssl:warn] [pid 10900:tid 180] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 13:59:33.658691 2018] [core:warn] [pid 10900:tid 180] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 13:59:33.785352 2018] [ssl:warn] [pid 10900:tid 180] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 13:59:33.822255 2018] [mpm_winnt:notice] [pid 10900:tid 180] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 13:59:33.822255 2018] [mpm_winnt:notice] [pid 10900:tid 180] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 13:59:33.822255 2018] [core:notice] [pid 10900:tid 180] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 13:59:33.827207 2018] [mpm_winnt:notice] [pid 10900:tid 180] AH00418: Parent: Created child process 12040
+[Tue Sep 18 13:59:34.794709 2018] [ssl:warn] [pid 12040:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 13:59:34.964178 2018] [ssl:warn] [pid 12040:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 13:59:35.005069 2018] [mpm_winnt:notice] [pid 12040:tid 568] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 18 14:00:58.020251 2018] [ssl:warn] [pid 7036:tid 516] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:00:58.078092 2018] [core:warn] [pid 7036:tid 516] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 14:00:58.206892 2018] [ssl:warn] [pid 7036:tid 516] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:00:58.243794 2018] [mpm_winnt:notice] [pid 7036:tid 516] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 14:00:58.244789 2018] [mpm_winnt:notice] [pid 7036:tid 516] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 14:00:58.244789 2018] [core:notice] [pid 7036:tid 516] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 14:00:58.249747 2018] [mpm_winnt:notice] [pid 7036:tid 516] AH00418: Parent: Created child process 9704
+[Tue Sep 18 14:00:59.239162 2018] [ssl:warn] [pid 9704:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:00:59.421820 2018] [ssl:warn] [pid 9704:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:00:59.463709 2018] [mpm_winnt:notice] [pid 9704:tid 572] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 18 14:01:45.606108 2018] [ssl:warn] [pid 13580:tid 140] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:01:45.662957 2018] [core:warn] [pid 13580:tid 140] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 14:01:45.790242 2018] [ssl:warn] [pid 13580:tid 140] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:01:45.827144 2018] [mpm_winnt:notice] [pid 13580:tid 140] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 14:01:45.827144 2018] [mpm_winnt:notice] [pid 13580:tid 140] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 14:01:45.827144 2018] [core:notice] [pid 13580:tid 140] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 14:01:45.833127 2018] [mpm_winnt:notice] [pid 13580:tid 140] AH00418: Parent: Created child process 2428
+[Tue Sep 18 14:01:46.801570 2018] [ssl:warn] [pid 2428:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:01:46.972113 2018] [ssl:warn] [pid 2428:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:01:47.014001 2018] [mpm_winnt:notice] [pid 2428:tid 576] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 18 14:03:53.326681 2018] [ssl:warn] [pid 268:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:03:53.384526 2018] [core:warn] [pid 268:tid 560] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 14:03:53.509190 2018] [ssl:warn] [pid 268:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:03:53.547092 2018] [mpm_winnt:notice] [pid 268:tid 560] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 14:03:53.547092 2018] [mpm_winnt:notice] [pid 268:tid 560] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 14:03:53.547092 2018] [core:notice] [pid 268:tid 560] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 14:03:53.553076 2018] [mpm_winnt:notice] [pid 268:tid 560] AH00418: Parent: Created child process 2108
+[Tue Sep 18 14:03:54.525477 2018] [ssl:warn] [pid 2108:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:03:54.693991 2018] [ssl:warn] [pid 2108:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:03:54.735879 2018] [mpm_winnt:notice] [pid 2108:tid 576] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 18 14:52:13.688178 2018] [ssl:warn] [pid 10672:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:52:13.748018 2018] [core:warn] [pid 10672:tid 564] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 14:52:13.872684 2018] [ssl:warn] [pid 10672:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:52:13.998336 2018] [mpm_winnt:notice] [pid 10672:tid 564] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 14:52:13.998336 2018] [mpm_winnt:notice] [pid 10672:tid 564] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 14:52:13.998336 2018] [core:notice] [pid 10672:tid 564] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 14:52:14.006308 2018] [mpm_winnt:notice] [pid 10672:tid 564] AH00418: Parent: Created child process 4012
+[Tue Sep 18 14:52:14.968767 2018] [ssl:warn] [pid 4012:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:52:15.141026 2018] [ssl:warn] [pid 4012:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:52:15.183911 2018] [mpm_winnt:notice] [pid 4012:tid 568] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 18 14:59:04.410327 2018] [ssl:warn] [pid 3704:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:59:04.468165 2018] [core:warn] [pid 3704:tid 564] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 14:59:04.582859 2018] [ssl:warn] [pid 3704:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:59:04.620764 2018] [mpm_winnt:notice] [pid 3704:tid 564] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 14:59:04.620764 2018] [mpm_winnt:notice] [pid 3704:tid 564] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 14:59:04.620764 2018] [core:notice] [pid 3704:tid 564] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 14:59:04.625753 2018] [mpm_winnt:notice] [pid 3704:tid 564] AH00418: Parent: Created child process 3532
+[Tue Sep 18 14:59:05.609253 2018] [ssl:warn] [pid 3532:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:59:05.791162 2018] [ssl:warn] [pid 3532:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 14:59:05.833053 2018] [mpm_winnt:notice] [pid 3532:tid 568] AH00354: Child: Starting 150 worker threads.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+[Tue Sep 18 17:41:48.539442 2018] [ssl:warn] [pid 14236:tid 516] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:41:48.598048 2018] [core:warn] [pid 14236:tid 516] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 17:41:48.702806 2018] [ssl:warn] [pid 14236:tid 516] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:41:48.791416 2018] [mpm_winnt:notice] [pid 14236:tid 516] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 17:41:48.791416 2018] [mpm_winnt:notice] [pid 14236:tid 516] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 17:41:48.791416 2018] [core:notice] [pid 14236:tid 516] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 17:41:48.796402 2018] [mpm_winnt:notice] [pid 14236:tid 516] AH00418: Parent: Created child process 12684
+[Tue Sep 18 17:41:49.742928 2018] [ssl:warn] [pid 12684:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:41:49.903887 2018] [ssl:warn] [pid 12684:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:41:49.944776 2018] [mpm_winnt:notice] [pid 12684:tid 576] AH00354: Child: Starting 150 worker threads.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+[Tue Sep 18 17:57:03.320499 2018] [ssl:warn] [pid 2636:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:57:03.375355 2018] [core:warn] [pid 2636:tid 560] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 17:57:03.490044 2018] [ssl:warn] [pid 2636:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:57:03.525950 2018] [mpm_winnt:notice] [pid 2636:tid 560] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 17:57:03.525950 2018] [mpm_winnt:notice] [pid 2636:tid 560] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 17:57:03.525950 2018] [core:notice] [pid 2636:tid 560] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 17:57:03.531934 2018] [mpm_winnt:notice] [pid 2636:tid 560] AH00418: Parent: Created child process 7492
+[Tue Sep 18 17:57:04.497352 2018] [ssl:warn] [pid 7492:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:57:04.664139 2018] [ssl:warn] [pid 7492:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:57:04.706027 2018] [mpm_winnt:notice] [pid 7492:tid 572] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 18 17:57:25.018964 2018] [ssl:warn] [pid 2172:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:57:25.077800 2018] [core:warn] [pid 2172:tid 560] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 17:57:25.185510 2018] [ssl:warn] [pid 2172:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:57:25.222412 2018] [mpm_winnt:notice] [pid 2172:tid 560] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 17:57:25.223378 2018] [mpm_winnt:notice] [pid 2172:tid 560] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 17:57:25.223378 2018] [core:notice] [pid 2172:tid 560] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 17:57:25.228395 2018] [mpm_winnt:notice] [pid 2172:tid 560] AH00418: Parent: Created child process 6320
+[Tue Sep 18 17:57:26.185976 2018] [ssl:warn] [pid 6320:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:57:26.354541 2018] [ssl:warn] [pid 6320:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 17:57:26.398406 2018] [mpm_winnt:notice] [pid 6320:tid 568] AH00354: Child: Starting 150 worker threads.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+[Tue Sep 18 18:41:24.284003 2018] [:error] [pid 6320:tid 1976] [client ::1:55899] PHP Parse error:  syntax error, unexpected ')' in C:\\Wizardawn\\htdocs\\db.php on line 4, referer: http://localhost:808/tool_ultimate.php
+[Tue Sep 18 18:43:06.135703 2018] [:error] [pid 6320:tid 1976] [client ::1:56038] PHP Parse error:  syntax error, unexpected 'array_map' (T_STRING) in C:\\Wizardawn\\htdocs\\db.php on line 5, referer: http://localhost:808/tool_ultimate.php
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+[Tue Sep 18 18:51:32.293158 2018] [core:error] [pid 6320:tid 1960] (20024)The given path is misformatted or contained invalid characters: [client ::1:56891] AH00127: Cannot map GET /localhost:808/ HTTP/1.1 to file
+[Tue Sep 18 18:57:29.230787 2018] [ssl:warn] [pid 10804:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 18:57:29.286705 2018] [core:warn] [pid 10804:tid 560] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 18:57:29.392434 2018] [ssl:warn] [pid 10804:tid 560] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 18:57:29.429334 2018] [mpm_winnt:notice] [pid 10804:tid 560] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 18:57:29.429334 2018] [mpm_winnt:notice] [pid 10804:tid 560] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 18:57:29.429334 2018] [core:notice] [pid 10804:tid 560] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 18:57:29.434322 2018] [mpm_winnt:notice] [pid 10804:tid 560] AH00418: Parent: Created child process 4636
+[Tue Sep 18 18:57:30.391564 2018] [ssl:warn] [pid 4636:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 18:57:30.551137 2018] [ssl:warn] [pid 4636:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 18:57:30.592028 2018] [mpm_winnt:notice] [pid 4636:tid 568] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 18 19:11:13.441335 2018] [ssl:warn] [pid 628:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 19:11:13.498198 2018] [core:warn] [pid 628:tid 564] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 18 19:11:13.618827 2018] [ssl:warn] [pid 628:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 19:11:13.781004 2018] [mpm_winnt:notice] [pid 628:tid 564] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Tue Sep 18 19:11:13.781004 2018] [mpm_winnt:notice] [pid 628:tid 564] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Tue Sep 18 19:11:13.781004 2018] [core:notice] [pid 628:tid 564] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Tue Sep 18 19:11:13.788894 2018] [mpm_winnt:notice] [pid 628:tid 564] AH00418: Parent: Created child process 9500
+[Tue Sep 18 19:11:14.802153 2018] [ssl:warn] [pid 9500:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 19:11:14.982669 2018] [ssl:warn] [pid 9500:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 18 19:11:15.024557 2018] [mpm_winnt:notice] [pid 9500:tid 576] AH00354: Child: Starting 150 worker threads.
+[Wed Sep 19 07:13:52.413774 2018] [ssl:warn] [pid 12128:tid 524] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 19 07:13:52.469518 2018] [core:warn] [pid 12128:tid 524] AH00098: pid file C:/Wizardawn/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Sep 19 07:13:52.586251 2018] [ssl:warn] [pid 12128:tid 524] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 19 07:13:52.676269 2018] [mpm_winnt:notice] [pid 12128:tid 524] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37 configured -- resuming normal operations
+[Wed Sep 19 07:13:52.676269 2018] [mpm_winnt:notice] [pid 12128:tid 524] AH00456: Apache Lounge VC11 Server built: Jul 16 2018 11:02:31
+[Wed Sep 19 07:13:52.676269 2018] [core:notice] [pid 12128:tid 524] AH00094: Command line: 'c:\\wizardawn\\apache\\bin\\httpd.exe -d C:/Wizardawn/apache'
+[Wed Sep 19 07:13:52.686296 2018] [mpm_winnt:notice] [pid 12128:tid 524] AH00418: Parent: Created child process 2440
+[Wed Sep 19 07:13:53.679546 2018] [ssl:warn] [pid 2440:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 19 07:13:53.854905 2018] [ssl:warn] [pid 2440:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 19 07:13:53.896288 2018] [mpm_winnt:notice] [pid 2440:tid 564] AH00354: Child: Starting 150 worker threads.
